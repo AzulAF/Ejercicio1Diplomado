@@ -9,7 +9,7 @@ Android con Kotlin.
 
 * Azul Alfaro Fernández
 * Olivia Yuyu Maceda Pérez
-* Emilio Herrera
+* Emilio Ramses Herrera Alcantara
 
 
 
