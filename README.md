@@ -13,7 +13,7 @@ Android con Kotlin.
 
 
 
-## Intrucciones y pruebas 
+## Instrucciones y pruebas 
 
 Crear un proyecto con el IDE oficial Android Studio que presente los siguientes elementos:
 * Un activity la cual contenga implementado sus principales métodos del ciclo de vida, en los cuales contenga un componente “Toast” que muestre una cadena de texto correspondiente al estado en el que entró.
